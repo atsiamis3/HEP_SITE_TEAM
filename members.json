@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Severous Snape",
+    "position": "Prof. of Dark matter artists",
+    "email": "Snape_n_Lilly@L4E.com",
+    "photo": "images/Snape.webp",
+    "bio": "Explores the darkest corners of the universe while keeping his students on their toes."
+  },
+  {
+    "name": "Albus Dumbledore",
+    "position": "Standard Model sculptor",
+    "email": "headmaster@hogwarts.wiz",
+    "photo": "images/Dumbledore.jfif",
+    "bio": "Shapes particles and minds alike with his unparalleled insight into the quantum world."
+  },
+  {
+    "name": "Sirius Black",
+    "position": "Strange sector researcher",
+    "email": "black@black.black",
+    "photo": "images/SiriousBlack.jfif",
+    "bio": "Chases elusive particles with the same passion he once had for breaking rules."
+  },
+  {
+    "name": "SpongeBob SquarePants",
+    "position": "Cantine Engineer",
+    "email": "bikini@bottom.cu",
+    "photo": "images/SpongeBob.jfif",
+    "bio": "Keeps the lab fueled and the team smiling, even underwater."
+  },
+  {
+    "name": "Steve Harrigton",
+    "position": "Up/Down Particle Brawler",
+    "email": "Steve@hair.ho",
+    "photo": "images/Steve_harrigton.webp",
+    "bio": "Navigates particle collisions like his hair—always in the right direction at the right time."
+  }
+]
